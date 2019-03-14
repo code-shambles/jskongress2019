@@ -1,5 +1,5 @@
 # Resources from JS Kongress 2019
-Let's try to collect a complete link list to the slides of the awesome talks of JS Kongress 2019 (in alphabetical order).
+A humble attempt to create a complete(?) link list to the slides of the awesome talks at JS Kongress 2019 (in alphabetical order).
 
 **Something's missing? Or you found a dead link? Your contribution is welcome!**
 
