@@ -17,3 +17,4 @@ A humble attempt to create a complete(?) link list to the slides of the awesome 
 
 [Weaving Webs of Workers](https://noti.st/trentmwillis/RxTcdy/weaving-webs-of-workers) by Trent Willis
 
+[Knock knock, who's there](https://jwt.sambego.tech/) by [Sam Bellen](https://github.com/sambego)
