@@ -20,3 +20,5 @@ A humble attempt to create a complete(?) link list to the slides of the awesome 
 [Taming reactive node.js: Stream-oriented architecture with Nest](https://speakerdeck.com/kamilmysliwiec/taming-reactive-node-dot-js-stream-oriented-architecture-with-nest) by [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 
 [Weaving Webs of Workers](https://noti.st/trentmwillis/RxTcdy/weaving-webs-of-workers) by [Trent Willis](https://twitter.com/trentmwillis)
+
+[Opening Keynote: The big piece of the post-LAMP pie](https://drive.google.com/file/d/1LifKBhA1jwcUlEE0ifVigrga-MR84tEs/view?usp=sharing) by [Maria Shoaib](https://www.linkedin.com/in/shoaibmaria)
