@@ -22,3 +22,5 @@ A humble attempt to create a complete(?) link list to the slides of the awesome 
 [Weaving Webs of Workers](https://noti.st/trentmwillis/RxTcdy/weaving-webs-of-workers) by [Trent Willis](https://twitter.com/trentmwillis)
 
 [Opening Keynote: The big piece of the post-LAMP pie](https://drive.google.com/file/d/1LifKBhA1jwcUlEE0ifVigrga-MR84tEs/view?usp=sharing) by [Maria Shoaib](https://www.linkedin.com/in/shoaibmaria)
+
+[Like a surgeon: Dissecting a completely Functional-Reactive app for the very first time](https://www.slideshare.net/NettaBondy/like-a-surgeon-dissecting-a-completely-functional-reactive-javascript-app-for-the-very-first-time-1) by [Netta Bondy](https://twitter.com/_bondit_)
