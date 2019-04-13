@@ -11,6 +11,8 @@ A humble attempt to create a complete(?) link list to the slides of the awesome 
 
 [Frontend engineering at scale](https://drive.google.com/file/d/1N9XdUqCMa6fZ0j0G4yvEs9I4MJJivIBZ/view) by [Nadia Makarevich](https://twitter.com/nadia_jsdev)
 
+[Future JavaScript: what is still missing?](http://2ality.com/2019/01/future-js.html) by [Dr. Axel Rauschmayer](http://dr-axel.de/)
+
 [Knock knock, who's there](https://jwt.sambego.tech/) by [Sam Bellen](https://github.com/sambego)
 
 [Mastering views with Finite State Machines](https://github.com/sospedra/talks/blob/master/finite-state-machines/slides.pdf) by [Rubén Sospedra](https://twitter.com/sospedra_r)
